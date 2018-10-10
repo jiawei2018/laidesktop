@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5543f5ae-9999-46e8-bf72-743ce647ad31" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-631744798">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="10396" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="10396" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="this lai" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/p005/useLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="554">
+              <caret line="133" column="27" selection-start-line="133" selection-start-column="27" selection-end-line="133" selection-end-column="27" />
+              <folding>
+                <element signature="e#138#139#0" expanded="true" />
+                <element signature="e#178#179#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/class6/level02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="64" column="45" selection-start-line="64" selection-start-column="45" selection-end-line="64" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#907#908#0" expanded="true" />
+                <element signature="e#937#938#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/class6/checkBinaryTreeIsComplete.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="82" column="50" lean-forward="true" selection-start-line="82" selection-start-column="50" selection-end-line="82" selection-end-column="50" />
+              <folding>
+                <element signature="e#1054#1055#0" expanded="true" />
+                <element signature="e#1084#1085#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/class_DFS_I/allset_I.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="576">
+              <caret line="54" column="36" lean-forward="true" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/class_DFS_I/allPermutations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="202">
+              <caret line="36" column="37" lean-forward="true" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/class_DFS_I/allKuoHao_I.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="708">
+              <caret line="42" column="68" selection-start-line="42" selection-start-column="68" selection-end-line="42" selection-end-column="68" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/class_DFS_I/combinationsOfCoins.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="60" column="77" selection-start-line="60" selection-start-column="77" selection-end-line="60" selection-end-column="77" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/class6/kthSmallestInMatrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="66" column="54" lean-forward="true" selection-start-line="66" selection-start-column="54" selection-end-line="66" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/class6/bipartite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-106">
+              <caret line="53" column="17" lean-forward="true" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/p005/binarytree01_pre.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#208#209#0" expanded="true" />
+                <element signature="e#238#239#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Pair</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>node</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/p005/binarytree01_pre.java" />
+        <option value="$PROJECT_DIR$/src/class6/heap1.java" />
+        <option value="$PROJECT_DIR$/src/class6/bipartite.java" />
+        <option value="$PROJECT_DIR$/src/p005/useLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/class6/level02.java" />
+        <option value="$PROJECT_DIR$/src/class6/checkBinaryTreeIsComplete.java" />
+        <option value="$PROJECT_DIR$/src/class6/kthSmallestInMatrix.java" />
+        <option value="$PROJECT_DIR$/src/class_DFS_I/allKuoHao_I.java" />
+        <option value="$PROJECT_DIR$/src/class_DFS_I/combinationsOfCoins.java" />
+        <option value="$PROJECT_DIR$/src/class_DFS_I/allset_I.java" />
+        <option value="$PROJECT_DIR$/src/class_DFS_I/allPermutations.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="81" />
+    <option name="y" value="450" />
+    <option name="width" value="1844" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="this lai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="this lai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="this lai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="this lai" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="this lai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="this lai" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="class6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="this lai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="this lai" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="class_DFS_I" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="this lai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="this lai" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="p005" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="this lai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539207252334" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.allKuoHao_I">
+    <configuration name="allKuoHao_I" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class_DFS_I.allKuoHao_I" />
+      <module name="this lai" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class_DFS_I.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="allset_I" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class_DFS_I.allset_I" />
+      <module name="this lai" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class_DFS_I.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="heap1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class6.heap1" />
+      <module name="this lai" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kthSmallestInMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class6.kthSmallestInMatrix" />
+      <module name="this lai" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.heap1" />
+      <item itemvalue="Application.kthSmallestInMatrix" />
+      <item itemvalue="Application.allset_I" />
+      <item itemvalue="Application.allKuoHao_I" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.allKuoHao_I" />
+        <item itemvalue="Application.allset_I" />
+        <item itemvalue="Application.kthSmallestInMatrix" />
+        <item itemvalue="Application.heap1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5543f5ae-9999-46e8-bf72-743ce647ad31" name="Default Changelist" comment="" />
+      <created>1538512593859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538512593859</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49850747" visible="true" weight="0.25266525" />
+      <window_info id="Structure" order="1" sideWeight="0.50149256" side_tool="true" visible="true" weight="0.25266525" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50141245" side_tool="true" weight="0.25266525" />
+      <window_info anchor="bottom" id="Messages" weight="0.329718" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18329719" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.2733189" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/class6/heap1.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/class6/kthSmallestInMatrix.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>this</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/class6/heap1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="34" column="116" selection-start-line="34" selection-start-column="116" selection-end-line="34" selection-end-column="116" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p005/binarytree01_pre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p005/useLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="133" column="27" selection-start-line="133" selection-start-column="27" selection-end-line="133" selection-end-column="27" />
+          <folding>
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/class6/bipartite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-106">
+          <caret line="53" column="17" lean-forward="true" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/class6/level02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="64" column="45" selection-start-line="64" selection-start-column="45" selection-end-line="64" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#907#908#0" expanded="true" />
+            <element signature="e#937#938#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/class6/kthSmallestInMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="66" column="54" lean-forward="true" selection-start-line="66" selection-start-column="54" selection-end-line="66" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classDFS_I.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/class6/checkBinaryTreeIsComplete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="82" column="50" lean-forward="true" selection-start-line="82" selection-start-column="50" selection-end-line="82" selection-end-column="50" />
+          <folding>
+            <element signature="e#1054#1055#0" expanded="true" />
+            <element signature="e#1084#1085#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/class_DFS_I/allKuoHao_I.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="708">
+          <caret line="42" column="68" selection-start-line="42" selection-start-column="68" selection-end-line="42" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/class_DFS_I/combinationsOfCoins.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="60" column="77" selection-start-line="60" selection-start-column="77" selection-end-line="60" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/class_DFS_I/allset_I.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="54" column="36" lean-forward="true" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/class_DFS_I/allPermutations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="36" column="37" lean-forward="true" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.7022222" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
