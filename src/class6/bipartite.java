@@ -47,6 +47,8 @@ public class bipartite {
                 return false;
             }
             Map<GraphNode, Integer> map = new HashMap<>();//visited
+
+
             int dir = 1;//1 or -1
             for(GraphNode g : graph){
                 if(checkNode(g, map, -dir) == false) {
