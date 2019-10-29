@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5543f5ae-9999-46e8-bf72-743ce647ad31" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/this lai/class6/bipartite.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/this lai/class6/bipartite.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/this lai/class_DFS_I/allset_I.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/this lai/class_DFS_I/allset_I.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class6/bipartite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class6/bipartite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/this lai/debug/roboloxMJ.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/this lai/debug/roboloxMJ.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,42 +21,42 @@
     <session id="-631744798">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="73" />
+          <entry key="project.closed" value="77" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="5" />
-          <entry key="project.open.time.10" value="9" />
+          <entry key="project.open.time.10" value="10" />
           <entry key="project.open.time.11" value="6" />
-          <entry key="project.open.time.12" value="5" />
+          <entry key="project.open.time.12" value="6" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.6" value="12" />
-          <entry key="project.open.time.7" value="14" />
-          <entry key="project.open.time.8" value="14" />
+          <entry key="project.open.time.7" value="15" />
+          <entry key="project.open.time.8" value="15" />
           <entry key="project.open.time.9" value="10" />
-          <entry key="project.opened" value="84" />
+          <entry key="project.opened" value="88" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="349" />
+          <entry key="java" value="354" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="349" />
+          <entry key="JAVA" value="354" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="8" />
-          <entry key="java" value="98390" />
+          <entry key="java" value="102257" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="98390" />
+          <entry key="JAVA" value="102257" />
           <entry key="PLAIN_TEXT" value="8" />
         </counts>
       </usages-collector>
@@ -71,19 +68,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/debug/tetsOa111.java">
+        <entry file="file://$PROJECT_DIR$/src/lccontest/debug01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/debug/con001.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+            <state relative-caret-position="1144">
+              <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -92,31 +80,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mem_algo/MST.java">
+        <entry file="file://$PROJECT_DIR$/src/temp/BSrange.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2662">
-              <caret line="123" column="30" selection-start-line="123" selection-start-column="30" selection-end-line="123" selection-end-column="30" />
+            <state relative-caret-position="198">
+              <caret line="11" column="51" lean-forward="true" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/debug/lc10120001.java">
+        <entry file="file://$PROJECT_DIR$/src/debug/lc1026.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-474">
+              <caret line="65" column="30" selection-start-line="65" selection-start-column="30" selection-end-line="65" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/debug/lc711me.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1232">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/debug/roboloxMJ.java">
+        <entry file="file://$PROJECT_DIR$/src/OA/peak6.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="47" column="30" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
+            <state relative-caret-position="2178">
+              <caret line="119" column="36" lean-forward="true" selection-start-line="119" selection-start-column="36" selection-end-line="119" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -194,6 +191,7 @@
       <find>index</find>
       <find>Set</find>
       <find>targetSum</find>
+      <find>ret</find>
     </findStrings>
     <replaceStrings>
       <replace>node</replace>
@@ -201,6 +199,7 @@
       <replace>p</replace>
       <replace>max</replace>
       <replace>half</replace>
+      <replace>res</replace>
     </replaceStrings>
     <dirStrings>
       <dir>D:\this lai\src\final</dir>
@@ -213,10 +212,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/temp/test.java" />
-        <option value="$PROJECT_DIR$/src/debug/kki.java" />
-        <option value="$PROJECT_DIR$/src/debug/interfacetest.java" />
-        <option value="$PROJECT_DIR$/src/debug/xycloestBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/debug/jiangti711.java" />
         <option value="$PROJECT_DIR$/src/dp2_important/PainterMinTime.java" />
         <option value="$PROJECT_DIR$/src/debug/lc140.java" />
@@ -264,12 +259,16 @@
         <option value="$PROJECT_DIR$/src/mem_algo/MST.java" />
         <option value="$PROJECT_DIR$/src/debug/lc10120001.java" />
         <option value="$PROJECT_DIR$/src/debug/roboloxMJ.java" />
+        <option value="$PROJECT_DIR$/src/lccontest/debug01.java" />
+        <option value="$PROJECT_DIR$/src/temp/BSrange.java" />
+        <option value="$PROJECT_DIR$/src/debug/lc1026.java" />
+        <option value="$PROJECT_DIR$/src/OA/peak6.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1076" />
-    <option name="y" value="106" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="364" />
+    <option name="y" value="79" />
     <option name="width" value="993" />
     <option name="height" value="873" />
   </component>
@@ -281,6 +280,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -298,19 +298,7 @@
               <item name="this lai" type="b2602c69:ProjectViewProjectNode" />
               <item name="this lai" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="debug" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="this lai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="this lai" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mem_algo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="this lai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="this lai" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="myother" type="462c0819:PsiDirectoryNode" />
+              <item name="OA" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="this lai" type="b2602c69:ProjectViewProjectNode" />
@@ -326,11 +314,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571106884303" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572332999334" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -351,9 +338,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.roboloxMJ">
-    <configuration name="con001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="debug.con001" />
+  <component name="RunManager" selected="Application.peak6">
+    <configuration name="BSrange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="temp.BSrange" />
+      <module name="this lai" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="temp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="debug01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lccontest.debug01" />
+      <module name="this lai" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lccontest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lc1026" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="debug.lc1026" />
       <module name="this lai" />
       <extension name="coverage">
         <pattern>
@@ -365,12 +378,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc10120001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="debug.lc10120001" />
+    <configuration name="peak6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OA.peak6" />
       <module name="this lai" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="debug.*" />
+          <option name="PATTERN" value="OA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -391,46 +404,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="someOthers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="debug.someOthers" />
-      <module name="this lai" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="debug.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="tetsOa111" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="debug.tetsOa111" />
-      <module name="this lai" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="debug.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.someOthers" />
-      <item itemvalue="Application.tetsOa111" />
-      <item itemvalue="Application.con001" />
-      <item itemvalue="Application.lc10120001" />
       <item itemvalue="Application.roboloxMJ" />
+      <item itemvalue="Application.debug01" />
+      <item itemvalue="Application.BSrange" />
+      <item itemvalue="Application.lc1026" />
+      <item itemvalue="Application.peak6" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.peak6" />
+        <item itemvalue="Application.lc1026" />
+        <item itemvalue="Application.BSrange" />
+        <item itemvalue="Application.debug01" />
         <item itemvalue="Application.roboloxMJ" />
-        <item itemvalue="Application.lc10120001" />
-        <item itemvalue="Application.con001" />
-        <item itemvalue="Application.tetsOa111" />
-        <item itemvalue="Application.someOthers" />
       </list>
     </recent_temporary>
   </component>
@@ -457,9 +444,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1076" y="106" width="993" height="873" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49925262" visible="true" weight="0.6806002" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49925262" visible="true" weight="0.17750533" />
       <window_info id="Structure" order="1" sideWeight="0.5007474" side_tool="true" weight="0.25266525" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -469,17 +456,17 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.18132465" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946752" weight="0.41802388" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946752" weight="0.320304" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4105691" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5005325" side_tool="true" weight="0.31161782" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32790446" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24973376" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24946696" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
@@ -759,47 +746,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/graph/bulb3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="22" column="50" lean-forward="true" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/debug/lc140.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-933">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/debug/lc417.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-726">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/debug/lc491.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/debug/lc600.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1012">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/debug/lc711a.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
@@ -1071,9 +1017,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1088,6 +1031,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/debug/roboloxMJ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lccontest/debug01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1144">
+          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1135,10 +1098,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/debug/roboloxMJ.java">
+    <entry file="file://$PROJECT_DIR$/src/temp/BSrange.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="47" column="30" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
+        <state relative-caret-position="198">
+          <caret line="11" column="51" lean-forward="true" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/debug/lc1026.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-474">
+          <caret line="65" column="30" selection-start-line="65" selection-start-column="30" selection-end-line="65" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/debug/lc711me.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1232">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OA/peak6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2178">
+          <caret line="119" column="36" lean-forward="true" selection-start-line="119" selection-start-column="36" selection-end-line="119" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
