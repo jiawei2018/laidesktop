@@ -3,74 +3,86 @@ package mem_algo;
 import java.util.*;
 
 public class MST {
+
     public int minCostToSupplyWater(int n, int[] wells, int[][] pipes) {
-        UnionFind uf = new UnionFind(n + 1);
-        // Store all edges and compare by its weight.
-        // int[] edge, from edge[0] to edge[1] cost is edge[2].
-        PriorityQueue<int[]> minHeap = new PriorityQueue<>((a, b) -> (a[2] - b[2]));
-        for(int[] pipe : pipes) {
-            minHeap.offer(pipe);
+        //using kraskul's algorithm
+        //we see the well as an edge from un fake node to current node i;
+        PriorityQueue<Edge> minheap = new PriorityQueue<>((a, b) -> {
+            return a.cost - b.cost;
+        });
+
+        for(int[] p : pipes){
+            minheap.offer(new Edge(p[0], p[1], p[2]));
         }
-        for(int i = 0; i < n; i++) {
-            minHeap.offer(new int[] {0, i + 1, wells[i]});
+
+        //add fake edge for each well into heap
+        for(int i = 0; i < wells.length; i++){
+            //notice here ! the well num also from 1 to n,!!!!!
+            //so the current node's id is i + 1
+            minheap.offer(new Edge(0, i + 1, wells[i]));
         }
-        // res is the minimum cost to build pipes and wells.
-        // cnt record how many times we union disconnected nodes.
-        int res = 0, cnt = 0;
-        while(!minHeap.isEmpty()) {
-            int[] edge = minHeap.poll();
-            if(uf.connected(edge[0], edge[1])) {
-                continue;
-            } else {
-                res += edge[2];
-                cnt++;
-                uf.union(edge[0], edge[1]);
+
+        UnionFind uf = new UnionFind(n + 1);//thsi problem node's id starts from one
+
+        int res = 0;
+        int count = 0;
+        while(!minheap.isEmpty()){
+            Edge cur = minheap.poll();
+            //record the currentt edge
+            if(uf.union(cur.u, cur.v)){
+                res += cur.cost;
+                count++;//means we used a edge
             }
         }
-        if(cnt == n) {
+        if(count == n){//means something wrong, we cant get enough information to ans
             return res;
         }
+
         return -1;
     }
 
-    class UnionFind {
-        int[] rank;
-        int[] parent;
+    class Edge{
+        int u;
+        int v;
+        int cost;
+        public Edge(int a, int b, int cost){
+            u = a;
+            v = b;
+            this.cost = cost;
+        }
 
-        UnionFind(int n) {
-            this.rank = new int[n];
-            this.parent = new int[n];
-            for(int i = 0; i < n; i++) {
-                parent[i] = i;
+        @Override
+        public String toString(){
+            return u+","+v+","+cost;
+        }
+    }
+
+    class UnionFind{
+        int[] roots;
+
+        public UnionFind(int num){
+            roots = new int[num];
+            for(int i = 0; i < roots.length; i++){
+                roots[i] = i;
             }
         }
 
-        public int find(int x) {
-            if(parent[x] == x) return x;
-            int p = find(parent[x]);
-            parent[x] = p;
-            return p;
+        public int find(int a){
+            if(roots[a] == a){
+                return a;
+            }
+            roots[a] = find(roots[a]);
+            return roots[a];
         }
 
-        public boolean connected(int x, int y) {
-            return find(x) == find(y);
-        }
-
-        public void union(int x, int y) {
-            int xp = find(x);
-            int yp = find(y);
-            if(xp == yp) {
-                return;
+        public boolean union(int a, int b){
+            int roota = find(a);
+            int rootb = find(b);
+            if(roota != rootb){
+                roots[roota] = rootb;
+                return true;
             }
-
-            if(rank[xp] == rank[yp]) {
-                parent[yp] = xp;
-                rank[xp]++;
-            } else if (rank[xp] > rank[yp]) {
-                parent[yp] = xp;
-            } else {
-                parent[xp] = yp;
-            }
+            return false;
         }
     }
 
@@ -78,64 +90,57 @@ public class MST {
 
 
 
-
-    class Edge {
-        int w;
-        int from;
-        int to;
-        public Edge(int from, int to, int w) {
-            this.w = w;
-            this.to = to;
-            this.from = from;
-        }
-    }
-    public int minCostToSupplyWater1(int n, int[] wells, int[][] pipes) {
+    public int minCostToSupplyWater2(int n, int[] wells, int[][] pipes) {
+        //using prim algorithm
+        //step 1 build graph with adjascent list
         Map<Integer, List<Edge>> graph = new HashMap<>();
-        for(int i = 0; i <= n; i++) {
+        for(int i = 0; i <= n; i++){//u-> v
             graph.put(i, new ArrayList<>());
         }
-        for(int[] pipe : pipes) {
-            int from = pipe[0];
-            int to = pipe[1];
-            int w = pipe[2];
-            graph.get(from).add(new Edge(from, to, w));
-            graph.get(to).add(new Edge(to, from, w));
+        for(int[] p : pipes){
+            Edge a = new Edge(p[0], p[1], p[2]);
+            Edge b = new Edge(p[1], p[0], p[2]);
+            graph.get(p[0]).add(a);
+            // if(!graph.containsKey(p[1])){
+            //     graph.add(p[1], new ArrayList<>());
+            // }
+            graph.get(p[1]).add(b);
         }
-        for(int i = 1; i <= n; i++) {
-            graph.get(i).add(new Edge(i, 0, wells[i - 1]));
-            graph.get(0).add(new Edge(0, i, wells[i - 1]));
+
+        for(int i  = 0; i < wells.length; i++){
+            Edge a = new Edge(0, i + 1, wells[i]);
+            Edge b = new Edge(i + 1, 0, wells[i]);
+            graph.get(0).add(a);
+            graph.get(i + 1).add(b);
         }
-        Set<Integer> visited = new HashSet<>();
-        PriorityQueue<Edge> heap = new PriorityQueue<>(new Comparator<Edge>() {
-            @Override
-            public int compare(Edge e1, Edge e2) {
-                if(e1.w == e2.w) {
-                    return e1.to - e2.to;
-                }
-                return e1.w - e2.w;
+
+        PriorityQueue<Edge> minheap = new PriorityQueue<>((a, b) -> {
+            if(a.cost == b.cost){
+                return a.v - b.v;//?
             }
+            return a.cost - b.cost;
         });
-        heap.offer(new Edge(0, 0, 0));
 
-        int minimumCost = 0;
-        while (!heap.isEmpty()) {
-            Edge e = heap.poll();
-            //System.out.println("To:" + e.to);
-            int from = e.from;
-            int to = e.to;
-            int w = e.w;
-            if (!visited.add(to)) continue;
-            minimumCost += w;
+        minheap.offer(new Edge(0, 0, 0));
 
-            for(Edge nei : graph.get(to)) {
-                if(!visited.contains(nei.to)) {
-                    heap.offer(nei);
+        int res = 0;
+        Set<Integer> used = new HashSet<>();
+        while(!minheap.isEmpty()){
+            Edge cur = minheap.poll();
+
+            if(used.add(cur.v)){
+                res += cur.cost;
+                for(Edge e: graph.get(cur.v)){//u->v -> next neighbours
+                    if(!used.contains(e.v)){
+                        minheap.offer(e);
+                    }
                 }
-
             }
         }
-        return minimumCost;
+
+        return res;
     }
+
 
 
 

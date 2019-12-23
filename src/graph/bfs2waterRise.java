@@ -1,8 +1,6 @@
 package graph;
 
-import java.util.HashSet;
-import java.util.PriorityQueue;
-import java.util.Set;
+import java.util.*;
 
 public class bfs2waterRise {
     public static void main(String[] args) throws Exception {
@@ -20,7 +18,7 @@ public class bfs2waterRise {
 
     public int getMinDays(int[][] grid) throws Exception {
         // from 0,0 to end,end
-        Math.pow(1, 2);
+       // Math.pow(1, 2);
         if(grid == null || grid.length == 0) {
             return 0;
         }
@@ -28,29 +26,33 @@ public class bfs2waterRise {
         int n = grid[0].length;
         Node start = new Node(0, 0, grid[0][0]);
         PriorityQueue<Node> heap = new PriorityQueue<>((n1, n2) -> n1.val - n2.val);
-        //boolean[][] visited = new boolean[m][n];
         Set<String> set = new HashSet<>();
         heap.offer(start);
-        //visited[start.x][start.y] = true;
         set.add(start.toString());
+        int days = 0;
+        int prev = grid[0][0];
+        List<Node> path = new ArrayList<>();
+
         while(!heap.isEmpty()) {
             Node cur = heap.poll();
+            path.add(cur);
+            if(cur.val > prev) days++;
             if(cur.x == m - 1 && cur.y == n - 1) {
-                return cur.val;
+                System.out.println(path);
+                return days;
             }
             for(int[] d: dir) {
                 int nx = cur.x + d[0];
                 int ny = cur.y + d[1];
-                //if(valid(nx, ny, grid) && !visited[nx][ny]) {
-                //String nn = nx+","+ny;
                 if(valid(nx, ny, grid) && !set.contains(nx+","+ny)) {
                     int nv = Math.max(cur.val, grid[nx][ny]);
+                    prev = cur.val;
                     Node nei = new Node(nx, ny, nv);
                     heap.offer(nei);
                     set.add(nei.toString());
-                    //visited[nx][ny] = true;;
                 }
             }
+
         }
         throw new Exception("cant find answer");
         //return -1;

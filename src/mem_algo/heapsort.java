@@ -42,7 +42,7 @@ public class heapsort {
             int leftchild = idx * 2 + 1;
             int rightchild = idx * 2 + 2;
             int max = idx;
-            if (leftchild < bound && nums[leftchild] > nums[max]) {
+            if (leftchild < bound && nums[leftchild] > nums[max]) {//we can easily change < > to min/max heap
                 max = leftchild;
             }
             if (rightchild < bound && nums[rightchild] > nums[max]) {

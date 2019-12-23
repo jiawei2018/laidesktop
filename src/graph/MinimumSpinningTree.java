@@ -76,7 +76,8 @@ pipes[i][0] != pipes[i][1]
             if(uf.union(cur.u, cur.v)){
                 //System.out.println(cur);
                 res += cur.cost;
-                count++;
+                count++;  //this part is very important;any well we use ,then we have an connected graph, other well will not be used
+                //means one edge no matter how many ways to connect ,we only choose one of them
             }
         }
         //System.out.println(count + " <<<<");
