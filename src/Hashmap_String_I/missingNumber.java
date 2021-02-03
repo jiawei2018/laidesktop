@@ -1,5 +1,7 @@
 package Hashmap_String_I;
 
+import java.util.*;
+
 /**
  * Description
  * Given an integer array of size N - 1,
@@ -23,6 +25,18 @@ public class missingNumber {
         while(idx >= 0){
             sum -= array[idx--];
         }
+        List<List<String>> res = new ArrayList<>();
+        Collections.sort(res, (a, b)-> a.size());
+
+        Map<Integer ,Integer> map = new HashMap<>();
+
+        for(Map.Entry<Integer, Integer> e : map.entrySet()) {
+            e.getKey();
+            e.getValue();
+
+        }
+
+        boolean v = true;
 
         return sum;
     }
