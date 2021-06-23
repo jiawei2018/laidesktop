@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/concurrent001/TestInterrupt.java" line="22" />
+    <bookmark url="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/concurrent001/TestInterrupt.java" line="20" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5543f5ae-9999-46e8-bf72-743ce647ad31" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/this lai/Hashmap_String_I/missingNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/this lai/Hashmap_String_I/missingNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/this lai/test001/t1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/this lai/test001/t1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hashmap_String_I/missingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hashmap_String_I/missingNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test001/t1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test001/t1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/this lai/new2020/k_subsum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/this lai/new2020/k_subsum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/this lai/test001/testjava8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/this lai/test001/testjava8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test001/testjava8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test001/testjava8.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,12 +25,15 @@
     <SUITE FILE_PATH="coverage/this_lai$ipaddress093.ic" NAME="ipaddress093 Coverage Results" MODIFIED="1545446524993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>other.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/this_lai$lfu.ic" NAME="lfu Coverage Results" MODIFIED="1617677167747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>jw2021.leet03.design.*</FILTER>
+    </SUITE>
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-631744798">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="100" />
+          <entry key="project.closed" value="106" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="5" />
           <entry key="project.open.time.10" value="15" />
@@ -38,33 +44,37 @@
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="3" />
-          <entry key="project.open.time.6" value="17" />
-          <entry key="project.open.time.7" value="16" />
-          <entry key="project.open.time.8" value="21" />
-          <entry key="project.open.time.9" value="16" />
-          <entry key="project.opened" value="114" />
+          <entry key="project.open.time.6" value="19" />
+          <entry key="project.open.time.7" value="24" />
+          <entry key="project.open.time.8" value="22" />
+          <entry key="project.open.time.9" value="17" />
+          <entry key="project.opened" value="126" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="454" />
+          <entry key="java" value="570" />
+          <entry key="kt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="454" />
+          <entry key="JAVA" value="570" />
+          <entry key="Kotlin" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="8" />
-          <entry key="java" value="116070" />
+          <entry key="dummy" value="10" />
+          <entry key="java" value="136914" />
+          <entry key="kt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="116070" />
-          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="JAVA" value="136914" />
+          <entry key="Kotlin" value="1" />
+          <entry key="PLAIN_TEXT" value="10" />
         </counts>
       </usages-collector>
     </session>
@@ -75,10 +85,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/new2020/Game24.java">
+        <entry file="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/TestControlThreadSize.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="912">
-              <caret line="51" column="36" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
+            <state relative-caret-position="389">
+              <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#316#317#0" expanded="true" />
+                <element signature="e#340#341#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/TestProducerConsumerModule.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="779">
+              <caret line="41" column="6" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -87,107 +111,94 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/new2020/k_subsum.java">
+        <entry file="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/LambdaLearn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="532">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/new2020/NumOfDistinctIsland.java">
+        <entry file="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/TestThread01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dfs2/factors.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/dfs2/mazeIII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
-              <caret line="139" column="24" lean-forward="true" selection-start-line="139" selection-start-column="24" selection-end-line="139" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dp1/jujmp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dp1/longestCommStr.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/lang/String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51509">
-              <caret line="3256" column="9" selection-start-line="3256" selection-start-column="9" selection-end-line="3256" selection-end-column="9" />
+            <state relative-caret-position="380">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
               <folding>
-                <element signature="docComment;class#String#0" />
-                <element signature="e#4494#4985#0" />
-                <element signature="e#5035#5419#0" />
-                <element signature="e#5681#7158#0" />
-                <element signature="e#7258#7591#0" />
-                <element signature="e#7701#7913#0" />
-                <element signature="e#8009#8437#0" />
-                <element signature="e#8626#9010#0" />
-                <element signature="e#9100#9938#0" />
-                <element signature="e#11957#13552#0" />
-                <element signature="e#15704#16944#0" />
-                <element signature="e#17400#18614#0" />
-                <element signature="e#19007#19930#0" />
-                <element signature="e#20095#20948#0" />
-                <element signature="e#21058#22075#0" />
-                <element signature="e#22346#23002#0" />
-                <element signature="e#23086#23440#0" />
-                <element signature="e#23526#24143#0" />
-                <element signature="e#24227#24510#0" />
-                <element signature="e#25934#26966#0" />
-                <element signature="e#27276#28336#0" />
-                <element signature="e#129105#129106#0" expanded="true" />
-                <element signature="e#129159#129160#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/util/LinkedHashMap.java">
+        <entry file="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/concurrent001/TestInterrupt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6023">
-              <caret line="345" column="11" selection-start-line="345" selection-start-column="11" selection-end-line="345" selection-end-column="11" />
+            <state relative-caret-position="940">
+              <caret line="82" column="32" lean-forward="true" selection-start-line="82" selection-start-column="32" selection-end-line="82" selection-end-column="32" />
+              <folding>
+                <element signature="e#1707#1863#0" expanded="true" />
+                <element signature="e#1862#1863#0" expanded="true" />
+                <element signature="e#1965#2332#0" expanded="true" />
+                <element signature="e#2331#2332#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/util/Set.java">
+        <entry file="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/concurrent001/shutdownThread/TestThreadCloseGracefully.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2546">
-              <caret line="157" column="7" selection-start-line="157" selection-start-column="7" selection-end-line="157" selection-end-column="7" />
+            <state relative-caret-position="76">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <element signature="e#340#341#0" expanded="true" />
+                <element signature="e#385#386#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/concurrent001/shutdownThread/TestThreadCloseGracefullyTwo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/concurrent001/shutdownThread/TestTreadShutDownWay3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="359">
+              <caret line="36" column="57" selection-start-line="36" selection-start-column="57" selection-end-line="36" selection-end-column="57" />
+              <folding>
+                <element signature="e#309#465#0" expanded="true" />
+                <element signature="e#464#465#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/concurrent001/shutdownThread/TestThreadShutdownWay3_test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+              <folding>
+                <element signature="e#171#327#0" expanded="true" />
+                <element signature="e#326#327#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/lang/Runnable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -197,8 +208,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Kotlin Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -214,6 +226,9 @@
       <find>targetSum</find>
       <find>ret</find>
       <find>72</find>
+      <find>minimum</find>
+      <find>get</find>
+      <find>708</find>
     </findStrings>
     <replaceStrings>
       <replace>node</replace>
@@ -226,6 +241,7 @@
     <dirStrings>
       <dir>D:\this lai\src\final</dir>
       <dir>D:\this lai\src\plan3</dir>
+      <dir>D:\this lai\src</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -234,63 +250,65 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/debug/lc947UnionFind.java" />
-        <option value="$PROJECT_DIR$/src/debug/lc84.java" />
-        <option value="$PROJECT_DIR$/src/mytest/sqrttest.java" />
-        <option value="$PROJECT_DIR$/src/ood/BigInt.java" />
-        <option value="$PROJECT_DIR$/src/debug/lc723candyCrush.java" />
-        <option value="$PROJECT_DIR$/src/OA/point72.java" />
-        <option value="$PROJECT_DIR$/src/graph/shorestWall010101.java" />
-        <option value="$PROJECT_DIR$/src/graph/iterBFS2.java" />
-        <option value="$PROJECT_DIR$/src/graph/Ceo123.java" />
-        <option value="$PROJECT_DIR$/src/myother/mock0831.java" />
-        <option value="$PROJECT_DIR$/src/debug/lc437pathsum3.java" />
-        <option value="$PROJECT_DIR$/src/test001/cc.java" />
-        <option value="$PROJECT_DIR$/src/mem_algo/quickSelect.java" />
-        <option value="$PROJECT_DIR$/src/mem_algo/ttttets.java" />
-        <option value="$PROJECT_DIR$/src/debug/someOthers.java" />
-        <option value="$PROJECT_DIR$/src/debug/tetsOa111.java" />
-        <option value="$PROJECT_DIR$/src/debug/con001.java" />
-        <option value="$PROJECT_DIR$/src/debug/lc10120001.java" />
-        <option value="$PROJECT_DIR$/src/debug/roboloxMJ.java" />
-        <option value="$PROJECT_DIR$/src/lccontest/debug01.java" />
-        <option value="$PROJECT_DIR$/src/temp/BSrange.java" />
-        <option value="$PROJECT_DIR$/src/debug/lc1026.java" />
-        <option value="$PROJECT_DIR$/src/OA/peak6.java" />
-        <option value="$PROJECT_DIR$/src/graph/bfs2waterRise.java" />
-        <option value="$PROJECT_DIR$/src/mem_algo/MST.java" />
-        <option value="$PROJECT_DIR$/src/myUS/ToMePotal.java" />
-        <option value="$PROJECT_DIR$/src/myUS/MediaMy.java" />
-        <option value="$PROJECT_DIR$/src/myUS/MyType.java" />
-        <option value="$PROJECT_DIR$/src/myUS/FindTarget.java" />
-        <option value="$PROJECT_DIR$/src/myUS/infomation.java" />
-        <option value="$PROJECT_DIR$/src/myUS/SpyType.java" />
-        <option value="$PROJECT_DIR$/src/myUS/Spy.java" />
-        <option value="$PROJECT_DIR$/src/graph/MinimumSpinningTree.java" />
-        <option value="$PROJECT_DIR$/src/debug/slyline.java" />
-        <option value="$PROJECT_DIR$/src/binarySearch/missingN_number_find_Kth.java" />
-        <option value="$PROJECT_DIR$/src/mem_algo/heapsort.java" />
-        <option value="$PROJECT_DIR$/src/tree/inorder_preorder.java" />
-        <option value="$PROJECT_DIR$/src/tree/diagnal_traverse.java" />
-        <option value="$PROJECT_DIR$/src/hybirdData/maxStack.java" />
-        <option value="$PROJECT_DIR$/src/quip/a001.java" />
-        <option value="$PROJECT_DIR$/src/quip/a002.java" />
-        <option value="$PROJECT_DIR$/src/test001/t1.java" />
+        <option value="$PROJECT_DIR$/src/jw2021/leet03/removeComment722.java" />
+        <option value="$PROJECT_DIR$/src/jw2021/leet03/mic/reverseLinkedListKGroup.java" />
+        <option value="$PROJECT_DIR$/src/jw2021/leet03/test/testSplit.java" />
+        <option value="$PROJECT_DIR$/src/jw2021/leet03/autoComplete.java" />
+        <option value="$PROJECT_DIR$/src/jw2021/leet03/test/twodarray.java" />
+        <option value="$PROJECT_DIR$/src/jw2021/leet03/design/lfu.java" />
+        <option value="$PROJECT_DIR$/src/jw2021/leet03/String/textJustification.java" />
+        <option value="$PROJECT_DIR$/src/jw2021/leet03/sweepline/skyline.java" />
+        <option value="$PROJECT_DIR$/src/jw2021/leet03/best_meeting_point/solution.java" />
+        <option value="$PROJECT_DIR$/src/jw2021/leet03/unionFind/longestConsecutiveSequence128.java" />
+        <option value="$PROJECT_DIR$/src/jw2021/leet03/test/MultiSet.java" />
+        <option value="$PROJECT_DIR$/src/jw2021/leet03/test/testMultiSet.java" />
+        <option value="$PROJECT_DIR$/src/jw2021/leet03/String/lc1055.java" />
+        <option value="$PROJECT_DIR$/src/jw2021/leet03/sort/lc1834.java" />
+        <option value="$PROJECT_DIR$/src/jw2021/leet03/String/lc1181.java" />
+        <option value="$PROJECT_DIR$/src/jw2021/leet03/dp/cons.java" />
+        <option value="$PROJECT_DIR$/src/jw2021/leet03/dp/lc1182.java" />
+        <option value="$PROJECT_DIR$/src/jw2021/leet03/tpsort/alienDict.java" />
+        <option value="$PROJECT_DIR$/src/AAAAAAAAAAAAA/DoOrNot.java" />
+        <option value="$PROJECT_DIR$/src/AAAAAAAAAAAAA/TurtleAndRabbit.java" />
+        <option value="$PROJECT_DIR$/src/jw2021/leet03/tagValidater.java" />
+        <option value="$PROJECT_DIR$/src/AAAAAAAAAAAAA/StaticProxyDemo.java" />
+        <option value="$PROJECT_DIR$/src/AAAAAAAAAAAAA/LambdaLearn.java" />
+        <option value="$PROJECT_DIR$/src/AAAAAAAAAAAAA/TestCallable.java" />
+        <option value="$PROJECT_DIR$/src/AAAAAAAAAAAAA/TestStop.java" />
+        <option value="$PROJECT_DIR$/src/AAAAAAAAAAAAA/TestSleep1.java" />
+        <option value="$PROJECT_DIR$/src/AAAAAAAAAAAAA/TestPriority.java" />
+        <option value="$PROJECT_DIR$/src/AAAAAAAAAAAAA/TestYeild.java" />
+        <option value="$PROJECT_DIR$/src/AAAAAAAAAAAAA/ThreadSafe/BuyTicket.java" />
+        <option value="$PROJECT_DIR$/src/AAAAAAAAAAAAA/ThreadSafe/DrawMoney.java" />
+        <option value="$PROJECT_DIR$/src/AAAAAAAAAAAAA/ThreadSafe/UnSafeList.java" />
+        <option value="$PROJECT_DIR$/src/jw2021/leet03/lc655.java" />
+        <option value="$PROJECT_DIR$/src/AAAAAAAAAAAAA/TestDeadLock.java" />
+        <option value="$PROJECT_DIR$/src/AAAAAAAAAAAAA/TestLock.java" />
+        <option value="$PROJECT_DIR$/src/AAAAAAAAAAAAA/TestProducerConsumerModule.java" />
+        <option value="$PROJECT_DIR$/src/AAAAAAAAAAAAA/TestPool.java" />
         <option value="$PROJECT_DIR$/src/test001/testjava8.java" />
-        <option value="$PROJECT_DIR$/src/Hashmap_String_I/missingNumber.java" />
-        <option value="$PROJECT_DIR$/src/test001/llll.java" />
-        <option value="$PROJECT_DIR$/src/IWillSuccess/test.java" />
-        <option value="$PROJECT_DIR$/src/bit/test001.java" />
-        <option value="$PROJECT_DIR$/src/new2020/Game24.java" />
-        <option value="$PROJECT_DIR$/src/new2020/k_subsum.java" />
-        <option value="$PROJECT_DIR$/src/new2020/NumOfDistinctIsland.java" />
-        <option value="$PROJECT_DIR$/src/dfs2/mazeIII.java" />
+        <option value="$PROJECT_DIR$/src/AAAAAAAAAAAAA/TestStreamParalle.java" />
+        <option value="$PROJECT_DIR$/src/AAAAAAAAAAAAA/TestDaemon.java" />
+        <option value="$PROJECT_DIR$/src/BBBBBBBBB/ThreadLearn01.java" />
+        <option value="$PROJECT_DIR$/src/BBBBBBBBB/TestT2.java" />
+        <option value="$PROJECT_DIR$/src/AAAAAAAAAAAAA/TestState.java" />
+        <option value="$PROJECT_DIR$/src/AAAAAAAAAAAAA/TestControlThreadSize.java" />
+        <option value="$PROJECT_DIR$/src/AAAAAAAAAAAAA/Testjoin.java" />
+        <option value="$PROJECT_DIR$/src/AAAAAAAAAAAAA/TestThread01.java" />
+        <option value="$PROJECT_DIR$/src/AAAAAAAAAAAAA/concurrent001/TestInterrupt.java" />
+        <option value="$PROJECT_DIR$/src/AAAAAAAAAAAAA/concurrent001/TestThreadCloseGracefully.java" />
+        <option value="$PROJECT_DIR$/src/AAAAAAAAAAAAA/concurrent001/shutdownThread/TestThreadCloseGracefully.java" />
+        <option value="$PROJECT_DIR$/src/AAAAAAAAAAAAA/concurrent001/shutdownThread/TestThreadCloseGracefullyTwo.java" />
+        <option value="$PROJECT_DIR$/src/AAAAAAAAAAAAA/concurrent001/shutdownThread/TestTreadShutDownWay3.java" />
+        <option value="$PROJECT_DIR$/src/AAAAAAAAAAAAA/concurrent001/shutdownThread/TestThreadShutdownWay3_test.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="width" value="240" />
-    <option name="height" value="59" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1202" />
+    <option name="height" value="866" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -300,7 +318,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -328,25 +346,47 @@
               <item name="this lai" type="b2602c69:ProjectViewProjectNode" />
               <item name="this lai" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dfs2" type="462c0819:PsiDirectoryNode" />
+              <item name="AAAAAAAAAAAAA" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="this lai" type="b2602c69:ProjectViewProjectNode" />
               <item name="this lai" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dp1" type="462c0819:PsiDirectoryNode" />
+              <item name="AAAAAAAAAAAAA" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent001" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="this lai" type="b2602c69:ProjectViewProjectNode" />
               <item name="this lai" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dp2_important" type="462c0819:PsiDirectoryNode" />
+              <item name="AAAAAAAAAAAAA" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent001" type="462c0819:PsiDirectoryNode" />
+              <item name="shutdownThread" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="this lai" type="b2602c69:ProjectViewProjectNode" />
               <item name="this lai" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="new2020" type="462c0819:PsiDirectoryNode" />
+              <item name="AAAAAAAAAAAAA" type="462c0819:PsiDirectoryNode" />
+              <item name="ThreadSafe" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="this lai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="this lai" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="BBBBBBBBB" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="this lai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="this lai" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test001" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="this lai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="this lai" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="this lai" type="b2602c69:ProjectViewProjectNode" />
@@ -356,16 +396,20 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1611888183158" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1624424067226" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
   </component>
   <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="jw2021.leet03" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="AAAAAAAAAAAAA.concurrent001.shutdownThread" />
       <recent name="dp2_important" />
     </key>
   </component>
@@ -381,13 +425,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.k_subsum">
-    <configuration name="Game24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="new2020.Game24" />
+  <component name="RunManager" selected="Application.TestThreadShutdownWay3_test">
+    <configuration name="TestControlThreadSize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AAAAAAAAAAAAA.TestControlThreadSize" />
       <module name="this lai" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="new2020.*" />
+          <option name="PATTERN" value="AAAAAAAAAAAAA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -395,12 +439,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="k_subsum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="new2020.k_subsum" />
+    <configuration name="TestInterrupt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AAAAAAAAAAAAA.concurrent001.TestInterrupt" />
       <module name="this lai" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="new2020.*" />
+          <option name="PATTERN" value="AAAAAAAAAAAAA.concurrent001.shutdownThread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -408,12 +452,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="llll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test001.llll" />
+    <configuration name="TestThread01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AAAAAAAAAAAAA.TestThread01" />
       <module name="this lai" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test001.*" />
+          <option name="PATTERN" value="AAAAAAAAAAAAA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -421,12 +465,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IWillSuccess.test" />
+    <configuration name="TestThreadCloseGracefullyTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AAAAAAAAAAAAA.concurrent001.shutdownThread.TestThreadCloseGracefullyTwo" />
       <module name="this lai" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IWillSuccess.*" />
+          <option name="PATTERN" value="AAAAAAAAAAAAA.concurrent001.shutdownThread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -434,12 +478,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bit.test001" />
+    <configuration name="TestThreadShutdownWay3_test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AAAAAAAAAAAAA.concurrent001.shutdownThread.TestThreadShutdownWay3_test" />
       <module name="this lai" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bit.*" />
+          <option name="PATTERN" value="AAAAAAAAAAAAA.concurrent001.shutdownThread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -448,19 +492,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.llll" />
-      <item itemvalue="Application.test" />
-      <item itemvalue="Application.test001" />
-      <item itemvalue="Application.Game24" />
-      <item itemvalue="Application.k_subsum" />
+      <item itemvalue="Application.TestControlThreadSize" />
+      <item itemvalue="Application.TestThread01" />
+      <item itemvalue="Application.TestInterrupt" />
+      <item itemvalue="Application.TestThreadCloseGracefullyTwo" />
+      <item itemvalue="Application.TestThreadShutdownWay3_test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.k_subsum" />
-        <item itemvalue="Application.Game24" />
-        <item itemvalue="Application.test001" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.llll" />
+        <item itemvalue="Application.TestThreadShutdownWay3_test" />
+        <item itemvalue="Application.TestThreadCloseGracefullyTwo" />
+        <item itemvalue="Application.TestInterrupt" />
+        <item itemvalue="Application.TestThread01" />
+        <item itemvalue="Application.TestControlThreadSize" />
       </list>
     </recent_temporary>
   </component>
@@ -487,9 +531,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49925262" visible="true" weight="0.29584223" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49925262" visible="true" weight="0.1705757" />
       <window_info id="Structure" order="1" sideWeight="0.5007474" side_tool="true" weight="0.25266525" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -497,16 +542,16 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.50141245" side_tool="true" weight="0.25266525" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.111834966" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946752" weight="0.23127036" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3083605" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49946752" visible="true" weight="0.33767644" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.29750273" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.13897938" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5005325" side_tool="true" weight="0.31161782" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32790446" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.14983714" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24946696" />
@@ -788,6 +833,174 @@
           <properties />
           <option name="timeStamp" value="77" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jw2021/leet03/ClosestDessertCost.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jw2021/leet03/ClosestDessertCost.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jw2021/leet03/lc1775EqualSumArraysWithMinimumNumberOperations.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jw2021/leet03/lc1775EqualSumArraysWithMinimumNumberOperations.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jw2021/leet03/mic/ReverseStrByWord.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jw2021/leet03/removeComment722.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jw2021/leet03/removeComment722.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jw2021/leet03/removeComment722.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jw2021/leet03/tagValidater.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jw2021/leet03/mic/reverseLinkedListKGroup.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jw2021/leet03/mic/reverseLinkedListKGroup.java</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jw2021/leet03/design/lfu.java</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jw2021/leet03/design/lfu.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jw2021/leet03/design/lfu.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jw2021/leet03/design/lfu.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jw2021/leet03/design/lfu.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jw2021/leet03/unionFind/longestConsecutiveSequence128.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jw2021/leet03/unionFind/longestConsecutiveSequence128.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jw2021/leet03/unionFind/longestConsecutiveSequence128.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jw2021/leet03/String/lc1055.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jw2021/leet03/sort/lc1834.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jw2021/leet03/sort/lc1834.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jw2021/leet03/tpsort/alienDict.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jw2021/leet03/lc655.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jw2021/leet03/lc655.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/TestProducerConsumerModule.java</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/TestProducerConsumerModule.java</url>
+          <line>95</line>
+          <properties />
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/TestProducerConsumerModule.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -801,388 +1014,437 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/backtracking/longestSubString.java">
+    <entry file="file://$PROJECT_DIR$/src/string01/validParlindromII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/binarySearch/missingN_number_find_Kth.java">
+    <entry file="file://$PROJECT_DIR$/src/String_II/reverseString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        <state relative-caret-position="190">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mem_algo/heapsort.java">
+    <entry file="file://$PROJECT_DIR$/src/String_II/reverseWordsInASentence_I.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+        <state relative-caret-position="418">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tree/inorder_preorder.java">
+    <entry file="file://$PROJECT_DIR$/src/String_II/longestSubstringWithoutRepeatingCharater.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2442">
-          <caret line="112" column="40" selection-start-line="112" selection-start-column="40" selection-end-line="112" selection-end-column="40" />
+        <state relative-caret-position="817">
+          <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tree/diagnal_traverse.java">
+    <entry file="file://$PROJECT_DIR$/src/jw2021/leet03/tpsort/alienDict.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/quip/a001.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1078">
-          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/quip/a002.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4620">
-          <caret line="210" column="33" selection-start-line="210" selection-start-column="33" selection-end-line="210" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mem_algo/IntToBinary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="760">
+          <caret line="40" column="48" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/graph/MinimumSpinningTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1760">
-          <caret line="80" column="13" selection-start-line="80" selection-start-column="13" selection-end-line="80" selection-end-column="13" />
+        <state relative-caret-position="931">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/myUS/DNA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/myUS/MediaMy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fate/calsigiSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test001/t1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/myother/geiyi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dp2_important/MyPrintHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dp3/largestSubmatrixSum.java">
+    <entry file="file://$PROJECT_DIR$/src/jw2021/leet03/design/lfu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
-          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test001/testjava8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dp3/largestCross.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/myother/mock0831.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test001/testlinkedlistmerge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1178">
-          <caret line="64" column="29" selection-start-line="64" selection-start-column="29" selection-end-line="64" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dp2_important/PainterMinTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test001/stringstest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dp3/closestInBST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/plan2/last.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p005/binarytree01_pre.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p005/useLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mytest/sqrttest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mytest/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/myHelperUtil/MyPrintHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jiaqiang1/sprial01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hybirdData/maxStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hashmap_String_I/commonNumbersInTwoSortedArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hashmap_String_I/determinIfOneStringIsAnotherSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hashmap_String_I/missingNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test001/father.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/util/HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2527">
-          <caret line="161" column="26" selection-start-line="161" selection-start-column="26" selection-end-line="161" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test001/cc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="817">
-          <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test001/llll.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IWillSuccess/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bit/numOfDiffBit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bit/test001.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/new2020/Game24.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="51" column="36" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
+          <caret line="66" column="28" lean-forward="true" selection-start-line="66" selection-start-column="28" selection-end-line="66" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/new2020/k_subsum.java">
+    <entry file="file://$PROJECT_DIR$/src/jw2021/leet03/lc1775EqualSumArraysWithMinimumNumberOperations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state>
+          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/new2020/NumOfDistinctIsland.java">
+    <entry file="file://$PROJECT_DIR$/src/jw2021/leet03/ClosestDessertCost.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+        <state relative-caret-position="263">
+          <caret line="39" column="41" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/lang/String.java">
+    <entry file="file://$PROJECT_DIR$/src/jw2021/leet03/removeComment722.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51509">
-          <caret line="3256" column="9" selection-start-line="3256" selection-start-column="9" selection-end-line="3256" selection-end-column="9" />
+        <state relative-caret-position="342">
+          <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
           <folding>
-            <element signature="docComment;class#String#0" />
-            <element signature="e#4494#4985#0" />
-            <element signature="e#5035#5419#0" />
-            <element signature="e#5681#7158#0" />
-            <element signature="e#7258#7591#0" />
-            <element signature="e#7701#7913#0" />
-            <element signature="e#8009#8437#0" />
-            <element signature="e#8626#9010#0" />
-            <element signature="e#9100#9938#0" />
-            <element signature="e#11957#13552#0" />
-            <element signature="e#15704#16944#0" />
-            <element signature="e#17400#18614#0" />
-            <element signature="e#19007#19930#0" />
-            <element signature="e#20095#20948#0" />
-            <element signature="e#21058#22075#0" />
-            <element signature="e#22346#23002#0" />
-            <element signature="e#23086#23440#0" />
-            <element signature="e#23526#24143#0" />
-            <element signature="e#24227#24510#0" />
-            <element signature="e#25934#26966#0" />
-            <element signature="e#27276#28336#0" />
-            <element signature="e#129105#129106#0" expanded="true" />
-            <element signature="e#129159#129160#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/util/LinkedHashMap.java">
+    <entry file="file://$PROJECT_DIR$/src/jw2021/leet03/tagValidater.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6023">
-          <caret line="345" column="11" selection-start-line="345" selection-start-column="11" selection-end-line="345" selection-end-column="11" />
+        <state relative-caret-position="111">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/util/Set.java">
+    <entry file="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/TestStop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2546">
-          <caret line="157" column="7" selection-start-line="157" selection-start-column="7" selection-end-line="157" selection-end-column="7" />
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dp1/jujmp.java">
+    <entry file="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/DoOrNot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="266">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dp1/longestCommStr.java">
+    <entry file="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/StaticProxyDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="-363">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dfs2/factors.java">
+    <entry file="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/TurtleAndRabbit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/TestSleep1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/ThreadSafe/BuyTicket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/ThreadSafe/DrawMoney.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="48" column="56" selection-start-line="48" selection-start-column="56" selection-end-line="48" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/ThreadSafe/UnSafeList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jw2021/leet03/lc655.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="50" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5852">
+          <caret line="440" column="6" selection-start-line="440" selection-start-column="6" selection-end-line="440" selection-end-column="6" />
+          <folding>
+            <element signature="docComment;class#ArrayList#0" />
+            <element signature="e#11711#12167#0" />
+            <element signature="e#16106#16107#0" expanded="true" />
+            <element signature="e#16151#16152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10412">
+          <caret line="571" column="6" selection-start-line="571" selection-start-column="6" selection-end-line="571" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/TestYeild.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/TestDeadLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="61" column="51" selection-start-line="61" selection-start-column="51" selection-end-line="61" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/TestLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/util/concurrent/locks/ReentrantReadWriteLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="221" column="51" selection-start-line="221" selection-start-column="51" selection-end-line="221" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/TestPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#721#722#0" expanded="true" />
+            <element signature="e#789#790#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test001/MapTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dfs2/mazeIII.java">
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="139" column="24" lean-forward="true" selection-start-line="139" selection-start-column="24" selection-end-line="139" selection-end-column="24" />
+        <state relative-caret-position="270">
+          <caret line="443" column="29" selection-start-line="443" selection-start-column="29" selection-end-line="443" selection-end-column="29" />
+          <folding>
+            <element signature="e#17080#17081#0" expanded="true" />
+            <element signature="e#17162#17163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/TestDaemon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="44" column="13" lean-forward="true" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BBBBBBBBB/ThreadLearn01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test001/testjava8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/lang/StrictMath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="388" column="26" selection-start-line="388" selection-start-column="26" selection-end-line="388" selection-end-column="26" />
+          <folding>
+            <element signature="e#13203#13204#0" expanded="true" />
+            <element signature="e#13256#13257#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="812" column="13" lean-forward="true" selection-start-line="812" selection-start-column="13" selection-end-line="812" selection-end-column="13" />
+          <folding>
+            <element signature="e#19014#19015#0" expanded="true" />
+            <element signature="e#19055#19056#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BBBBBBBBB/TestT2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="78" selection-start-line="9" selection-start-column="78" selection-end-line="9" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/TestState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/TestStreamParalle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-936">
+          <caret line="236" column="18" selection-start-line="236" selection-start-column="18" selection-end-line="236" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/TestCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="26" column="56" lean-forward="true" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/TestPriority.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="44" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/Testjoin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/TestThread01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/TestControlThreadSize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/TestProducerConsumerModule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="41" column="6" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/LambdaLearn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/concurrent001/TestInterrupt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="940">
+          <caret line="82" column="32" lean-forward="true" selection-start-line="82" selection-start-column="32" selection-end-line="82" selection-end-column="32" />
+          <folding>
+            <element signature="e#1707#1863#0" expanded="true" />
+            <element signature="e#1862#1863#0" expanded="true" />
+            <element signature="e#1965#2332#0" expanded="true" />
+            <element signature="e#2331#2332#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/concurrent001/shutdownThread/TestThreadCloseGracefully.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/concurrent001/shutdownThread/TestThreadCloseGracefullyTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/concurrent001/shutdownThread/TestTreadShutDownWay3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="36" column="57" selection-start-line="36" selection-start-column="57" selection-end-line="36" selection-end-column="57" />
+          <folding>
+            <element signature="e#309#465#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AAAAAAAAAAAAA/concurrent001/shutdownThread/TestThreadShutdownWay3_test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+          <folding>
+            <element signature="e#171#327#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

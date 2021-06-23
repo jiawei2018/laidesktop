@@ -10,14 +10,17 @@ public class testjava8 {
 
 
     public static void tt(){
-        List e = new ArrayList<>();
-        String[] strs = new String[26];
-        for(int i = 0; i < 26; i++){
-            strs[i] = String.valueOf(i + 'a');
-            e.add(strs[i]);
-        }
-
-        e.forEach(System.out::println);
-
+        List<Integer> e = new ArrayList<>(1);
+        e.add(1);
+        e.add(2);
+        System.out.println(e);
+//        String[] strs = new String[26];
+//        for(int i = 0; i < 26; i++){
+//            strs[i] = String.valueOf(i + 'a');
+//            e.add(strs[i]);
+//        }
+//
+//        e.forEach(System.out::println);
+        Math.ceil(0.0);
     }
 }
