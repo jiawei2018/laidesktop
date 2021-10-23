@@ -31,6 +31,8 @@ public class TestTreadShutDownWay3 {
         //send out the interrupt signal
         long start = System.currentTimeMillis();
         while(!flag) {//means only if the task is not finish!
+
+            //time out exit
             if(System.currentTimeMillis() - start >= time) {
                 //means time out!
                 executeThread.interrupt();
